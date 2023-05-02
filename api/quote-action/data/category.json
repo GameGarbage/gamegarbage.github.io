@@ -1,0 +1,238 @@
+{
+    "hard times": [
+        {
+            "url": "/data/hard times/heartbroken/0/data.json",
+            "tag": "heartbroken"
+        },
+        {
+            "url": "/data/hard times/overthinking/0/data.json",
+            "tag": "overthinking"
+        },
+        {
+            "url": "/data/hard times/death/0/data.json",
+            "tag": "death"
+        },
+        {
+            "url": "/data/hard times/haters/0/data.json",
+            "tag": "haters"
+        },
+        {
+            "url": "/data/hard times/depression/0/data.json",
+            "tag": "depression"
+        },
+        {
+            "url": "/data/hard times/loneliness/0/data.json",
+            "tag": "loneliness"
+        },
+        {
+            "url": "/data/hard times/uncertainty/0/data.json",
+            "tag": "uncertainty"
+        },
+        {
+            "url": "/data/hard times/sadness/0/data.json",
+            "tag": "sadness"
+        }
+    ],
+    "personal growth": [
+        {
+            "url": "/data/personal growth/letting go/0/data.json",
+            "tag": "letting go"
+        },
+        {
+            "url": "/data/personal growth/self-respect/0/data.json",
+            "tag": "self-respect"
+        },
+        {
+            "url": "/data/personal growth/self-esteem/0/data.json",
+            "tag": "self-esteem"
+        },
+        {
+            "url": "/data/personal growth/ego/0/data.json",
+            "tag": "ego"
+        },
+        {
+            "url": "/data/personal growth/happiness/0/data.json",
+            "tag": "happiness"
+        },
+        {
+            "url": "/data/personal growth/growth/0/data.json",
+            "tag": "growth"
+        },
+        {
+            "url": "/data/personal growth/self-love/0/data.json",
+            "tag": "self-love"
+        },
+        {
+            "url": "/data/personal growth/love yourself/0/data.json",
+            "tag": "love yourself"
+        },
+        {
+            "url": "/data/personal growth/gratitude/0/data.json",
+            "tag": "gratitude"
+        },
+        {
+            "url": "/data/personal growth/moving on/0/data.json",
+            "tag": "moving on"
+        }
+    ],
+    "work & productivity": [
+        {
+            "url": "/data/work & productivity/focus/0/data.json",
+            "tag": "focus"
+        },
+        {
+            "url": "/data/work & productivity/graduation/0/data.json",
+            "tag": "graduation"
+        },
+        {
+            "url": "/data/work & productivity/college/0/data.json",
+            "tag": "college"
+        },
+        {
+            "url": "/data/work & productivity/study/0/data.json",
+            "tag": "study"
+        },
+        {
+            "url": "/data/work & productivity/success/0/data.json",
+            "tag": "success"
+        },
+        {
+            "url": "/data/work & productivity/passion/0/data.json",
+            "tag": "passion"
+        },
+        {
+            "url": "/data/work & productivity/money/0/data.json",
+            "tag": "money"
+        },
+        {
+            "url": "/data/work & productivity/leadership/0/data.json",
+            "tag": "leadership"
+        },
+        {
+            "url": "/data/work & productivity/work/0/data.json",
+            "tag": "work"
+        },
+        {
+            "url": "/data/work & productivity/self-discipline/0/data.json",
+            "tag": "self-discipline"
+        },
+        {
+            "url": "/data/work & productivity/routine/0/data.json",
+            "tag": "routine"
+        },
+        {
+            "url": "/data/work & productivity/entrepreneurs/0/data.json",
+            "tag": "entrepreneurs"
+        },
+        {
+            "url": "/data/work & productivity/productivity/0/data.json",
+            "tag": "productivity"
+        },
+        {
+            "url": "/data/work & productivity/perseverance/0/data.json",
+            "tag": "perseverance"
+        }
+    ],
+    "inspiration": [
+        {
+            "url": "/data/inspiration/proverbs/0/data.json",
+            "tag": "proverbs"
+        },
+        {
+            "url": "/data/inspiration/funny/0/data.json",
+            "tag": "funny"
+        },
+        {
+            "url": "/data/inspiration/future/0/data.json",
+            "tag": "future"
+        },
+        {
+            "url": "/data/inspiration/beauty/0/data.json",
+            "tag": "beauty"
+        },
+        {
+            "url": "/data/inspiration/sayings/0/data.json",
+            "tag": "sayings"
+        },
+        {
+            "url": "/data/inspiration/art/0/data.json",
+            "tag": "art"
+        }
+    ],
+    "spiritual & philosophy": [
+        {
+            "url": "/data/spiritual & philosophy/taoism/0/data.json",
+            "tag": "taoism"
+        },
+        {
+            "url": "/data/spiritual & philosophy/zen/0/data.json",
+            "tag": "zen"
+        },
+        {
+            "url": "/data/spiritual & philosophy/devotions/0/data.json",
+            "tag": "devotions"
+        },
+        {
+            "url": "/data/spiritual & philosophy/life/0/data.json",
+            "tag": "life"
+        },
+        {
+            "url": "/data/spiritual & philosophy/karma/0/data.json",
+            "tag": "karma"
+        },
+        {
+            "url": "/data/spiritual & philosophy/mindfulness/0/data.json",
+            "tag": "mindfulness"
+        },
+        {
+            "url": "/data/spiritual & philosophy/wisdom/0/data.json",
+            "tag": "wisdom"
+        },
+        {
+            "url": "/data/spiritual & philosophy/god/0/data.json",
+            "tag": "god"
+        },
+        {
+            "url": "/data/spiritual & philosophy/faith/0/data.json",
+            "tag": "faith"
+        },
+        {
+            "url": "/data/spiritual & philosophy/hope/0/data.json",
+            "tag": "hope"
+        },
+        {
+            "url": "/data/spiritual & philosophy/philosophy/0/data.json",
+            "tag": "philosophy"
+        }
+    ],
+    "health & fitness": [
+        {
+            "url": "/data/health & fitness/sport/0/data.json",
+            "tag": "sport"
+        },
+        {
+            "url": "/data/health & fitness/strength/0/data.json",
+            "tag": "strength"
+        },
+        {
+            "url": "/data/health & fitness/health/0/data.json",
+            "tag": "health"
+        },
+        {
+            "url": "/data/health & fitness/gym/0/data.json",
+            "tag": "gym"
+        },
+        {
+            "url": "/data/health & fitness/fitness/0/data.json",
+            "tag": "fitness"
+        },
+        {
+            "url": "/data/health & fitness/training/0/data.json",
+            "tag": "training"
+        },
+        {
+            "url": "/data/health & fitness/running/0/data.json",
+            "tag": "running"
+        }
+    ]
+}
