@@ -1,1 +1,10 @@
-{"contents": ["Talk politics, talk about study and talk positively."], "pagination": {"next": "/data/work & productivity/study/2/data.json", "prev": "/data/work & productivity/study/0/data.json", "current": "/data/work & productivity/study/1/data.json"}}
+{
+    "contents": [
+        "Talk politics, talk about study and talk positively."
+    ],
+    "pagination": {
+        "next": null,
+        "prev": "/data/work & productivity/study/0/data.json",
+        "current": "/data/work & productivity/study/1/data.json"
+    }
+}
