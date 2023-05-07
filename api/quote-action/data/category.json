@@ -9,10 +9,6 @@
             "tag": "overthinking"
         },
         {
-            "url": "/data/hard times/death/0/data.json",
-            "tag": "death"
-        },
-        {
             "url": "/data/hard times/haters/0/data.json",
             "tag": "haters"
         },
@@ -47,10 +43,6 @@
             "tag": "self-esteem"
         },
         {
-            "url": "/data/personal growth/ego/0/data.json",
-            "tag": "ego"
-        },
-        {
             "url": "/data/personal growth/happiness/0/data.json",
             "tag": "happiness"
         },
@@ -83,10 +75,6 @@
         {
             "url": "/data/work & productivity/graduation/0/data.json",
             "tag": "graduation"
-        },
-        {
-            "url": "/data/work & productivity/college/0/data.json",
-            "tag": "college"
         },
         {
             "url": "/data/work & productivity/study/0/data.json",
@@ -153,10 +141,6 @@
         {
             "url": "/data/inspiration/sayings/0/data.json",
             "tag": "sayings"
-        },
-        {
-            "url": "/data/inspiration/art/0/data.json",
-            "tag": "art"
         }
     ],
     "spiritual & philosophy": [
@@ -167,10 +151,6 @@
         {
             "url": "/data/spiritual & philosophy/zen/0/data.json",
             "tag": "zen"
-        },
-        {
-            "url": "/data/spiritual & philosophy/devotions/0/data.json",
-            "tag": "devotions"
         },
         {
             "url": "/data/spiritual & philosophy/life/0/data.json",
@@ -221,10 +201,6 @@
         {
             "url": "/data/health & fitness/gym/0/data.json",
             "tag": "gym"
-        },
-        {
-            "url": "/data/health & fitness/fitness/0/data.json",
-            "tag": "fitness"
         },
         {
             "url": "/data/health & fitness/training/0/data.json",
